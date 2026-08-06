@@ -1,16 +1,15 @@
-## Hi there 👋
+# Serrah Linares
 
-<!--
-**SerrahLinares/SerrahLinares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Co-founder & CRO at Vieu — AI-powered relationship intelligence and account planning for enterprise GTM teams. I build AI GTM systems with Claude for B2B SaaS: warm-path prospecting, account planning, and executive-layer relationship monitoring across marketing, SDR, and AE workflows.
 
-Here are some ideas to get you started:
+Vieu: https://try.vieu.com
+LinkedIn (Vieu): https://www.linkedin.com/company/vieu/about/
+LinkedIn (me): https://www.linkedin.com/in/serrahpetermann/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+A set of Claude Code skills and playbooks for running GTM on top of Vieu's relationship graph — combining Vieu's MCP tools with HubSpot, Apollo, and Avoma depending on the job. See the vieu-claude organization for the SDR and AE playbooks.
+
+## Background
+
+Previously SVP Growth Innovation at Optum/UnitedHealth Group, with a background spanning health systems, payers, digital health, and AI platforms. Holds an issued AI/ML patent.
