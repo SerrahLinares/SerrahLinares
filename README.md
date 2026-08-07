@@ -1,8 +1,3 @@
-# Serrah Linares
-
-Chief Outcomes Officer at Vieu — AI-powered relationship intelligence and account planning for enterprise GTM teams. I build AI GTM systems with Claude for Enterprise B2B Client-Facing Teams.
-
-
 ## What I'm building here
 
 A set of Claude Code skills and playbooks for running GTM on top of Vieu's relationship graph — combining Vieu's MCP tools with HubSpot, Apollo, and Avoma depending on the job. See the vieu-claude organization for the SDR and AE playbooks.
