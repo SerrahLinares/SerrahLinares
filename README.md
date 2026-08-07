@@ -3,7 +3,6 @@
 Chief Outcomes Officer at Vieu — AI-powered relationship intelligence and account planning for enterprise GTM teams. I build AI GTM systems with Claude for Enterprise B2B Client-Facing Teams.
 
 Vieu: https://try.vieu.com
-LinkedIn (Vieu): https://www.linkedin.com/company/vieu/about/
 LinkedIn (me): https://www.linkedin.com/in/serrahpetermann/
 
 ## What I'm building
